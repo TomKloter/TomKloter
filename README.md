@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+Cytometry in R
+
+Location: ETH Zurich
+My favorite fluorophore: pH-lemon
+Previous coding Experience: some experience mainly in making heatmaps and graphs
+What I hope to get from this course: Make Flow data look visually pleasing and streamline analysis
+
 <!--
 **TomKloter/TomKloter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,15 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-Cytometry in R
-
-Location: ETH Zurich
-My favorite fluorophore: pH-lemon
-Previous coding Experience: some experience mainly in making heatmaps and graphs
-What I hope to get from this course: Make Flow data look visually pleasing and streamline analysis
-
 
 
 -->
